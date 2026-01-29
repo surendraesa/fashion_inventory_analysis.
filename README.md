@@ -45,7 +45,7 @@
 
 **Power BI Dashboard**
 
-     1.The Power BI dashboard includes:
+     1.The Power BI dashboard includes: **click here to see dashboard**(https://app.powerbi.com/groups/me/reports/dfb701a4-5772-4380-884d-7fad90b3fa37/c2f1f2200359c1439702?experience=power-bi)
 
      2.Key performance indicators (KPIs)
  
